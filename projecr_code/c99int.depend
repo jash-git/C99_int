@@ -14,3 +14,29 @@
 	<inttypes.h>
 	"stdint.h"
 
+1629256407 source:c:\users\jashliao\desktop\giyhub\c99_int\projecr_code\main.c
+	<stdio.h>
+	<wchar.h>
+	"stdint.h"
+	"inttypes.h"
+	"auto_stdint.h"
+	"auto_inttypes.h"
+
+1629253927 c:\users\jashliao\desktop\giyhub\c99_int\projecr_code\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1629254072 c:\users\jashliao\desktop\giyhub\c99_int\projecr_code\inttypes.h
+	<inttypes.h>
+	"stdint.h"
+
+1629256096 c:\users\jashliao\desktop\giyhub\c99_int\projecr_code\auto_stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1629256133 c:\users\jashliao\desktop\giyhub\c99_int\projecr_code\auto_inttypes.h
+	<inttypes.h>
+	"auto_stdint.h"
+

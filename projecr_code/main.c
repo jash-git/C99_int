@@ -6,8 +6,15 @@
 
 #include <wchar.h>
 
+/*
+//01
 #include "stdint.h"
 #include "inttypes.h"
+*/
+
+//02
+#include "auto_stdint.h"
+#include "auto_inttypes.h"
 
 void Pause()
 {

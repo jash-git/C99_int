@@ -31,6 +31,8 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="auto_inttypes.h" />
+		<Unit filename="auto_stdint.h" />
 		<Unit filename="inttypes.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
