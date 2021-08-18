@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1629254296 source:c:\users\jashliao\desktop\c99int\main.c
+	<stdio.h>
+	<wchar.h>
+	"stdint.h"
+	"inttypes.h"
+
+1629253927 c:\users\jashliao\desktop\c99int\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1629254072 c:\users\jashliao\desktop\c99int\inttypes.h
+	<inttypes.h>
+	"stdint.h"
+
